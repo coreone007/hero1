@@ -1,9 +1,9 @@
-Them text
 public class Hello1
 {
    public static void Main()
    {
-	string a = "hung";
+	string a = "hung kkkkkk";
+	int a = 1;
       System.Console.WriteLine("Hello, World!");
 	int a = 1;
    }
