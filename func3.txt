@@ -1,8 +1,9 @@
-func3
 Them text
 public class Hello1
 {
    public static void Main()
    {
+	string a = "hung";
       System.Console.WriteLine("Hello, World!");
+	int a = 1;
    }
